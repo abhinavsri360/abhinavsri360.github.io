@@ -21,12 +21,27 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 32
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
-    # - repo-name
+      - React-Signin-Signup_flow
+      - shopping-application
+      - portfolio
+      - abhinavsri360.github.io
+      - Skin-Lesion-Analyzer
+      - CircuitVerseDocs
+      - vue
+      - Edukalp
+      - randomised_html_css_js
+      - SIH_Women_Safety
+      - git-sticker
+      - github-slideshow
+      - calci
+      - WebAPI
+      - employee-app
+      - HACKBVP
 
 social_media:
   # behance: your_username
